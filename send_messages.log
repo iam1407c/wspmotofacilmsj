@@ -1,0 +1,6 @@
+2024-10-13 23:07:17,169 INFO:Loaded 1 contacts from data/contacts.csv.
+2024-10-13 23:07:18,362 INFO:Message sent to 51992544801. Response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '51992544801', 'wa_id': '51992544801'}], 'messages': [{'id': 'wamid.HBgLNTE5OTI1NDQ4MDEVAgARGBJFRjQ3QjJCRTE2MzE1OEIxNEYA', 'message_status': 'accepted'}]}
+2024-10-13 23:11:25,759 INFO:Loaded 1 contacts from data/contacts.csv.
+2024-10-13 23:11:26,602 INFO:Message sent to 51961231097. Response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '51961231097', 'wa_id': '51961231097'}], 'messages': [{'id': 'wamid.HBgLNTE5NjEyMzEwOTcVAgARGBJFRDBDRDcwQTAyMjEyNDE4RjUA', 'message_status': 'accepted'}]}
+2024-10-13 23:14:08,868 INFO:Loaded 1 contacts from data/contacts.csv.
+2024-10-13 23:14:09,784 INFO:Message sent to 51929486818. Response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '51929486818', 'wa_id': '51929486818'}], 'messages': [{'id': 'wamid.HBgLNTE5Mjk0ODY4MTgVAgARGBJEQ0FFOTVDRkFCNDcyMjhDQzAA', 'message_status': 'accepted'}]}

@@ -1,0 +1,21 @@
+# .gitignore
+
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+logs/
+
+# Variables de entorno
+.env
+
+# Otros
+*.log
